@@ -1,0 +1,5 @@
+Memory.json
+bin/
+obj/
+Properties/
+.DS_Store
